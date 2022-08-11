@@ -1,8 +1,0 @@
-_site
-.sass-cache
-.jekyll-metadata
-local.yml
-.DS_Store
-/img/*
-
-/node_modules/
