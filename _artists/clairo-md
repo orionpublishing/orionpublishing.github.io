@@ -1,0 +1,13 @@
+---
+layout: artistpage
+imgyear: 2023
+artist: Clairo
+
+shows:
+    - 2023-06-17:
+        - tour: 
+        - role: Opener
+        - venue: Forest Hills Stadium
+        - city: Queens, NY
+        - rating: 9.3
+---

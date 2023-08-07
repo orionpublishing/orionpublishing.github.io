@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{%- include header.html -%}
+<main class="post__wrapper">
+  {%- include header_nav.html -%}
+  <article class="post">
+    <header class="post__header">
+      <h1 class="post__title page__title">{{ page.artist | escape }}</h1>
+    </header>
+    <div class="post__content content">
+      
+      <img src="{{site.baseurl}}/{{page.img}}">
+      <p></p>
+      {{ content | img_prefix }}
+<div align="center">
+    <p></p>
+<a href="{{site.baseurl}}/concerts.html">Back</a>
+</div>
+    </div>
+  </article>
+  {%- include contact.html -%}
+</main>
+{%- include footer.html -%}

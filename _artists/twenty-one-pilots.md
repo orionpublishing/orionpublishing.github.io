@@ -1,0 +1,41 @@
+---
+layout: mypage
+artist: Twenty One Pilots
+shows:
+    - 2015-12-14: 
+        - tour: 
+        - role: Headliner
+        - venue: Ace of Spades
+        - city: Sacramento, CA
+        - rating: 9.5
+    - 2015-10-17: 
+        - tour: 
+        - role: Headliner
+        - venue: Fox Theater
+        - city: Oakland, CA
+        - rating: 8.0
+    - 2015-06-06: 
+        - tour: Live 105's BFD
+        - role: Festival
+        - venue: Shoreline Amphitheatre
+        - city: San Francisco, CA
+        - rating: 7.0
+    - 2014-05-10: 
+        - tour: 
+        - role: Headliner
+        - venue: Fox Theater
+        - city: Oakland, CA
+        - rating: 9.0    
+    - 2013-11-09: 
+        - tour: 
+        - role: Headliner
+        - venue: House of Blues
+        - city: San Diego, CA
+        - rating: 8.2
+    - 2013-09-21: 
+        - tour: 
+        - role: Opener
+        - venue: America's Cup Pavillion
+        - city: San Francisco, CA
+        - rating: 8.0
+---

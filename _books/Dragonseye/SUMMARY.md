@@ -20,3 +20,6 @@
 * [18. Chapter 17](17.md)
 * [19. Chapter 18](18.md)
 * [20. Chapter 19](19.md)
+* [21. Book II](book2start.md)
+* [22. Chapter 20: Interlude](20.md)
+* [23. Chapter 21: Interlude II](21.md)

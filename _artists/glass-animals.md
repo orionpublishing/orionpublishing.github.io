@@ -1,0 +1,41 @@
+---
+layout: mypage
+artist: Glass Animals
+shows:
+    - 2022-03-29:
+        - tour: 
+        - role: Headliner
+        - venue: The Anthem
+        - city: Washington, DC
+        - rating: 8.6
+    - 2021-09-29: 
+        - tour: 
+        - role: Headliner
+        - venue: Skyline Stage at the Mann
+        - city: Philadelphia, PA
+        - rating: 8.3
+    - 2020-02-26: 
+        - tour: 
+        - role: Headliner
+        - venue: Music Hall of Williamsburg
+        - city: Brooklyn, NY
+        - rating: 9.3
+    - 2018-05-19: 
+        - tour: Frost Music and Arts Festival
+        - role: Headliner/Festival
+        - venue: Stanford Stadium
+        - city: Stanford, CA
+        - rating: 8.0
+    - 2017-09-22: 
+        - tour: 
+        - role: Headliner
+        - venue: The Greek Theatre
+        - city: Berkeley, CA
+        - rating: 9.1
+    - 2016-12-09: 
+        - tour: Not So Silent Night
+        - role: Festival
+        - venue: Oakland Coliseum
+        - city: Oakland, CA
+        - rating: 7.0
+---

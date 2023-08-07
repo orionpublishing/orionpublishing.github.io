@@ -1,8 +1,9 @@
 ---
 title: Orion Publishing
-description: custom imprint of Imad Pasha
+description: Independent imprint -  Imad Pasha 
 locale: en
 email: "imad.pasha@yale.edu"
+#baseurl: /
 url: https://orionpublishing.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 social:
   github: "prappleizer"
@@ -14,22 +15,25 @@ logo: /img/logo.png
 theme: 'jekyll-theme-persephone'
 theme_setting:
   blog_page: "blog/index.md"
-  about_page: "about.md"
+  about_page: "index.md"
   archive_page: "archive.md"
   nav_pages:
-    - "about.md"
+    - "index.md"
     - "archive.md"
+    - "blog/index.md"
+
   lang:
     category_all: "Blog"
     blog_title: "Blog"
- #   comment:
- #     user: "昵称"
- #     email: "邮箱"
- #     url: "链接"
- #     message: "说点什么吧..."
- #     reply: "回复"
+
 
 # Jekyll Settings
+
+collections:
+  artists:
+    output: true
+    permalink: /artists/:path/
+
 markdown: kramdown
 kramdown:
     smart_quotes:  ["apos", "apos", "ldquo", "rdquo"]
